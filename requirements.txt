@@ -1,0 +1,7 @@
+llama-index-core
+llama-index-llms-gemini
+llama-index-embeddings-gemini
+llama-index-retrievers-bm25
+llama-parse
+streamlit
+nest-asyncio
